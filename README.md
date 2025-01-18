@@ -45,6 +45,6 @@ Contributions are welcome! Feel free to:
 
 ## 👨‍💻 Developer
 
-Created with ❤️ by [@sauravv_x]([https://github.com/saurav-shakya)]
+Created with ❤️ by [@sauravv_x]([https://github.com/saurav-shakya)
 
 

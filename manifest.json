@@ -1,24 +1,23 @@
 {
   "manifest_version": 3,
   "name": "Attention All You Need",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "A browser extension to enhance your YouTube experience by blurring suggested videos.",
   "permissions": [
     "activeTab"
   ],
   "background": {
-    "service_worker": "src/background.js"
+    "service_worker": "src/js/background.js"
   },
   "content_scripts": [
     {
       "matches": ["*://www.youtube.com/*"],
-      "js": ["src/content.js"],
+      "js": ["src/js/content.js"],
       "css": ["src/styles/content.css"]
     }
   ],
   "icons": {
-    "16": "icons/icon16.js",
-    "48": "icons/icon48.js",
-    "128": "icons/icon128.js"
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
   }
 }
