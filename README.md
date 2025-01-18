@@ -1,10 +1,10 @@
-# Attention All You Need (AAYN)
+# Attention is All You Need (AAYN)
 
 A powerful browser extension designed to enhance focus while watching YouTube by intelligently managing video suggestions and distractions.
 
 ## 🎯 Overview
 
-AAYN (Attention All You Need) helps you maintain focus on your current video by intelligently blurring suggested videos on the sidebar. This feature reduces distractions while ensuring you can still access recommendations when needed.
+AAYN (Attention is  All You Need) helps you maintain focus on your current video by intelligently blurring suggested videos on the sidebar. This feature reduces distractions while ensuring you can still access recommendations when needed.
 
 ## ✨ Features
 
@@ -45,8 +45,6 @@ Contributions are welcome! Feel free to:
 
 ## 👨‍💻 Developer
 
-Created with ❤️ by [@sauravv_x](https://github.com/saurav-shakya)
+Created with ❤️ by [@sauravv_x]([https://github.com/saurav-shakya)]
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
