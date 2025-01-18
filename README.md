@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README.md
 
 # Attention All You Need
@@ -23,3 +24,7 @@ Simply install the extension and enjoy a distraction-free YouTube experience!
 
 ## Devloper
 @sauravv_x         
+=======
+# AAYN
+Attention All You Need" is a Browser extension designed to help you stay focused while watching YouTube.
+>>>>>>> a872afb3cfab8d3ca577d206bc59068ef2ce80e5
