@@ -1,30 +1,52 @@
-<<<<<<< HEAD
-# README.md
+# Attention All You Need (AAYN)
 
-# Attention All You Need
+A powerful browser extension designed to enhance focus while watching YouTube by intelligently managing video suggestions and distractions.
 
-This browser extension enhances your YouTube experience by blurring suggested videos on the sidebar, allowing you to focus on the main video. When you search on YouTube, all results will be displayed fully. 
+## 🎯 Overview
 
-## Features
+AAYN (Attention All You Need) helps you maintain focus on your current video by intelligently blurring suggested videos on the sidebar. This feature reduces distractions while ensuring you can still access recommendations when needed.
 
-- Blurs sidebar video suggestions while watching a video.
-- Reveals blurred suggestions when hovering over them.
-- Displays full search results when searching on YouTube.
+## ✨ Features
 
-## Installation
+- 🔍 Smart Suggestion Management
+  - Blurs sidebar video suggestions while watching videos
+  - Instantly reveals suggestions on hover
+  - Full visibility for search results
+- 🎯 Focus Enhancement
+  - Reduces visual distractions
+  - Improves content consumption experience
+- 🚀 Lightweight & Fast
+  - Minimal impact on browser performance
+  - Instant response time
 
-1. Download the extension files.
-2. Go to your browser's extension settings.
-3. Enable "Developer mode."
-4. Load the unpacked extension by selecting the project folder.
+## 🔧 Installation
 
-## Usage
+1. Clone this repository or download the extension files
+2. Open your browser's extension page
+   - Chrome: `chrome://extensions/`
+   - Firefox: `about:addons`
+3. Enable "Developer mode"
+4. Click "Load unpacked" and select the project folder
 
-Simply install the extension and enjoy a distraction-free YouTube experience!
+## 💡 Usage
 
-## Devloper
-@sauravv_x         
-=======
-# AAYN
-Attention All You Need" is a Browser extension designed to help you stay focused while watching YouTube.
->>>>>>> a872afb3cfab8d3ca577d206bc59068ef2ce80e5
+1. Install the extension
+2. Navigate to YouTube
+3. Start watching videos with fewer distractions
+4. Hover over blurred suggestions if you want to view them
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+- Open issues
+- Submit pull requests
+- Suggest new features
+- Report bugs
+
+## 👨‍💻 Developer
+
+Created with ❤️ by [@sauravv_x](https://github.com/saurav-shakya)
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
